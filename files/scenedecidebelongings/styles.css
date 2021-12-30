@@ -200,7 +200,7 @@
 #u6 .text {
   position:absolute;
   align-self:flex-end;
-  padding:2px 2px 2px 2px;
+  padding:200px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
